@@ -372,6 +372,19 @@ FS Pack
 
 .. _test_suite_versioning_bluetooth:
 
+GNSS Pack
+---------
+
+.. list-table:: GNSS API Implementation and Validation
+   :widths: 20 10 10
+
+   * - GNSS Pack
+     - GNSS API
+     - Java Test Suite
+   * - 1.1.0
+     - `1.1.0 <https://repository.microej.com/modules/ej/api/gnss/1.1.0/>`__
+     - `1.4.0 <https://repository.microej.com/modules/com/microej/pack/gnss/gnss-testsuite/1.4.0/>`__
+
 BLUETOOTH Pack
 --------------
 
