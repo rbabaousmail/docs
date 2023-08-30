@@ -381,9 +381,9 @@ GNSS Pack
    * - GNSS Pack
      - GNSS API
      - Java Test Suite
-   * - 1.1.0
-     - `1.1.0 <https://repository.microej.com/modules/ej/api/gnss/1.1.0/>`__
-     - `1.4.0 <https://repository.microej.com/modules/com/microej/pack/gnss/gnss-testsuite/1.4.0/>`__
+   * - 2.0.0
+     - `2.0.0 <https://repository.microej.com/modules/ej/api/gnss/2.0.0/>`__
+     - `2.0.0 <https://repository.microej.com/modules/com/microej/pack/gnss/gnss-testsuite/2.0.0/>`__
 
 BLUETOOTH Pack
 --------------
